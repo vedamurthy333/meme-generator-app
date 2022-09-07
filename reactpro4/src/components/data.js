@@ -1,0 +1,20 @@
+export default [
+    {
+        url:"meme.jpg"
+    },
+    {
+        url:"meme1.jpg"
+    },
+    {
+        url:"meme2.jpg"
+    },
+    {
+        url:"meme3.jpg"
+    },
+    {
+        url:"meme4.png"
+    },
+    {
+        url:"unnamed.png"
+    }
+]
